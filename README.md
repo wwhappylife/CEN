@@ -2,7 +2,7 @@
 
 By Yikai Wang, Wenbing Huang, Fuchun Sun, Tingyang Xu, Yu Rong, Junzhou Huang.
 
-[**[Paper]** (full version with proofs and visualizations)](https://arxiv.org/pdf/2011.05005.pdf)
+[**[Paper]**](https://papers.nips.cc/paper/2020/file/339a18def9898dd60a634b2ad8fbbd58-Paper.pdf) [**[Paper & Appendix]** (with proofs and visualizations)](https://arxiv.org/pdf/2011.05005.pdf)
 
 [[Slides]](https://yikaiw.github.io/projects/NeurIPS20-CEN/slides.pdf) [[Poster]](https://yikaiw.github.io/projects/NeurIPS20-CEN/poster.pdf) [[BibTex]](https://yikaiw.github.io/projects/NeurIPS20-CEN/cite.txt)
 
